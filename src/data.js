@@ -1,4 +1,38 @@
-export const projects = [
+export const ManagementProjects = [
+  {
+    title: "Cost Management Plan",
+    subtitle: "MERN Stack",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-1.gif",
+    link: "https://drive.google.com/drive/u/0/folders/1pSslpAYkJMKfCYBA3hr6g3T7oUrW4fXg",
+  },
+  {
+    title: "Critical Path Diagram",
+    subtitle: "React and Python",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-2.gif",
+    link: "https://drive.google.com/drive/u/0/folders/1eUWzJmF24Oak2uEAAUjg6C0tNFhJ9zns",
+  },
+  {
+    title: "Fishbone Diagram",
+    subtitle: "React and Firebase",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-3.gif",
+    link: "https://drive.google.com/drive/u/0/folders/1znWXppIaqKhCDc0Ev2an505qNqMabiKQ",
+  },
+  {
+    title: "Gantt Charts",
+    subtitle: "React Hooks",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-4.gif",
+    link: "https://drive.google.com/drive/u/0/folders/1d8qNrf9PTM3-r-Uu5cW3YRsIEqJD9H0r",
+  },
+];
+export const SoftwareProjects = [
   {
     title: "React Reserve",
     subtitle: "MERN Stack",
@@ -51,10 +85,10 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "PHP/Laravel",
+  "Jira",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "JavaScript",
+  "Leadership",
+  "Team Collaboration",
 ];

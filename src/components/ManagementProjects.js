@@ -1,5 +1,5 @@
 import React from "react";
-import { projects } from "../data";
+import { ManagementProjects } from "../data";
 
 export default function ManagementProjects() {
   return (
