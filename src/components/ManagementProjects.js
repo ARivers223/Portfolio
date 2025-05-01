@@ -1,5 +1,5 @@
 import React from "react";
-import { ManagementProjects } from "../data";
+import { MgmtProjects } from "../data";
 
 export default function ManagementProjects() {
   return (
@@ -16,7 +16,7 @@ export default function ManagementProjects() {
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
-          {ManagementProjects.map((project) => (
+          {MgmtProjects.map((project) => (
             <a
               href={project.link}
               key={project.image}

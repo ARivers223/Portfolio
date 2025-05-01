@@ -1,6 +1,6 @@
 import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
-import { SoftwareProjects } from "../data";
+import { SftwProjects } from "../data";
 
 export default function SoftwareProjects() {
   return (
@@ -18,7 +18,7 @@ export default function SoftwareProjects() {
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
-          {SoftwareProjects.map((project) => (
+          {SftwProjects.map((project) => (
             <a
               href={project.link}
               key={project.image}

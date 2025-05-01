@@ -1,4 +1,4 @@
-export const ManagementProjects = [
+export const MgmtProjects = [
   {
     title: "Cost Management Plan",
     subtitle: "MERN Stack",
@@ -32,7 +32,7 @@ export const ManagementProjects = [
     link: "https://drive.google.com/drive/u/0/folders/1d8qNrf9PTM3-r-Uu5cW3YRsIEqJD9H0r",
   },
 ];
-export const SoftwareProjects = [
+export const SftwProjects = [
   {
     title: "React Reserve",
     subtitle: "MERN Stack",
