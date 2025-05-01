@@ -18,7 +18,7 @@ export default function SoftwareProjects() {
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
-          {projects.map((project) => (
+          {SoftwareProjects.map((project) => (
             <a
               href={project.link}
               key={project.image}

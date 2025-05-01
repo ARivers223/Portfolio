@@ -16,7 +16,7 @@ export default function ManagementProjects() {
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
-          {projects.map((project) => (
+          {ManagementProjects.map((project) => (
             <a
               href={project.link}
               key={project.image}
