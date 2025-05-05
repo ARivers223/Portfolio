@@ -10,9 +10,7 @@ export default function ManagementProjects() {
             Project Management work I've completed.
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
+           You can find various forms of project management work I've completed below. These projects included using MS Project, Excel, Visio, and other tools to create visually pleasing and easy to follow diagrams.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

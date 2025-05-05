@@ -1,35 +1,35 @@
 export const MgmtProjects = [
   {
-    title: "Cost Management Plan",
-    subtitle: "MERN Stack",
+    title: "Cost Management Plans & Analysis",
+    subtitle: "Budgeting",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Projects where I needed to come up with a cost management plan or create a cost analysis.",
     image: "./project-1.gif",
     link: "https://drive.google.com/drive/u/0/folders/1pSslpAYkJMKfCYBA3hr6g3T7oUrW4fXg",
   },
   {
-    title: "Critical Path Diagram",
-    subtitle: "React and Python",
+    title: "Project Outlines and Gantt Charts",
+    subtitle: "MS Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Projects where I used MS Project to create both an outline of work and Gantt Charts that focused on the critical path.",
     image: "./project-2.gif",
-    link: "https://drive.google.com/drive/u/0/folders/1eUWzJmF24Oak2uEAAUjg6C0tNFhJ9zns",
+    link: "https://drive.google.com/drive/u/0/folders/1d8qNrf9PTM3-r-Uu5cW3YRsIEqJD9H0r",
   },
   {
     title: "Fishbone Diagram",
-    subtitle: "React and Firebase",
+    subtitle: "Error Handling and Tracing",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Projects where I used Visio to create a Ishikawa diagram based on an issue that popped up during the project timeline.",
     image: "./project-3.gif",
     link: "https://drive.google.com/drive/u/0/folders/1znWXppIaqKhCDc0Ev2an505qNqMabiKQ",
   },
   {
-    title: "Gantt Charts",
-    subtitle: "React Hooks",
+    title: "Critical Path Diagram",
+    subtitle: "Project Timeline",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Project where I created a manual critical path diagram to calculate the optimum path for the project.",
     image: "./project-4.gif",
-    link: "https://drive.google.com/drive/u/0/folders/1d8qNrf9PTM3-r-Uu5cW3YRsIEqJD9H0r",
+    link: "https://drive.google.com/drive/u/0/folders/1eUWzJmF24Oak2uEAAUjg6C0tNFhJ9zns",
   },
 ];
 export const SftwProjects = [
