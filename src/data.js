@@ -55,7 +55,7 @@ export const SftwProjects = [
     description:
       "Multiple projects previously completed that focus on development using ASP.net, C#, and SQL Server with html elements. Decorator pattern, C.R.U.D, factory patterns used here as well",
     image: "./project-3.gif",
-    link: "https://github.com/ARivers223/Asp.net/tree/master/desktop/Asp,
+    link: "https://github.com/ARivers223/Asp.net/tree/master/desktop/Asp",
   },
   {
     title: "Ecommerence and algorithm work",
