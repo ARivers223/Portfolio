@@ -34,36 +34,36 @@ export const MgmtProjects = [
 ];
 export const SftwProjects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Portfolio",
+    subtitle: "React and Tailwind css",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This portfolio page was a project I  elected to work on using strictly React and Tailwind css. Showcases completed projects and projects in progress as well.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ARivers223/Portfolio/tree/master/src",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "ERD of Student Music Event",
+    subtitle: "SQL Focus",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An ERD created based off an event where students could participate in a music showcase event that would conclude with rewards given based on performance.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://drive.google.com/drive/u/0/folders/1RT_FED2jweCoWYxuci2QRMCkbTEA8Nij",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "C.R.U.D and other pattern designs",
+    subtitle: "ASP.Net, C#, and SQL Server",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Multiple projects previously completed that focus on development using ASP.net, C#, and SQL Server with html elements. Decorator pattern, C.R.U.D, factory patterns used here as well",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ARivers223/Asp.net/tree/master/desktop/Asp,
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Ecommerence and algorithm work",
+    subtitle: "JS, HTML, and CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Two smaller projects that comprised of a popular algorithm question frequently used and an ecommerence webpage.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/ARivers223/JS-HTML-CSS/tree/master/desktop/Js%2Chtml%2Ccss",
   },
 ];
 
@@ -87,7 +87,7 @@ export const testimonials = [
 export const skills = [
   "PHP/Laravel",
   "Jira",
-  "React",
+  "Rapid Learning",
   "JavaScript",
   "Leadership",
   "Team Collaboration",
