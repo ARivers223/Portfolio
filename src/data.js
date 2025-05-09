@@ -4,7 +4,7 @@ export const MgmtProjects = [
     subtitle: "Budgeting",
     description:
       "Projects where I needed to come up with a cost management plan or create a cost analysis.",
-    image: "./project-1.gif",
+    image: "./Cost_Management.gif",
     link: "https://drive.google.com/drive/u/0/folders/1pSslpAYkJMKfCYBA3hr6g3T7oUrW4fXg",
   },
   {
@@ -12,7 +12,7 @@ export const MgmtProjects = [
     subtitle: "MS Project",
     description:
       "Projects where I used MS Project to create both an outline of work and Gantt Charts that focused on the critical path.",
-    image: "./project-2.gif",
+    image: "./Gantt_Chart.gif",
     link: "https://drive.google.com/drive/u/0/folders/1d8qNrf9PTM3-r-Uu5cW3YRsIEqJD9H0r",
   },
   {
@@ -20,7 +20,7 @@ export const MgmtProjects = [
     subtitle: "Error Handling and Tracing",
     description:
       "Projects where I used Visio to create a Ishikawa diagram based on an issue that popped up during the project timeline.",
-    image: "./project-3.gif",
+    image: "./Fishbone_Diagram.gif",
     link: "https://drive.google.com/drive/u/0/folders/1znWXppIaqKhCDc0Ev2an505qNqMabiKQ",
   },
   {
@@ -28,7 +28,7 @@ export const MgmtProjects = [
     subtitle: "Project Timeline",
     description:
       "Project where I created a manual critical path diagram to calculate the optimum path for the project.",
-    image: "./project-4.gif",
+    image: "./Critical_Path_Diagram.gif",
     link: "https://drive.google.com/drive/u/0/folders/1eUWzJmF24Oak2uEAAUjg6C0tNFhJ9zns",
   },
 ];
@@ -46,7 +46,7 @@ export const SftwProjects = [
     subtitle: "SQL Focus",
     description:
       "An ERD created based off an event where students could participate in a music showcase event that would conclude with rewards given based on performance.",
-    image: "./project-2.gif",
+    image: "./Music_Event_ERD.gif",
     link: "https://drive.google.com/drive/u/0/folders/1RT_FED2jweCoWYxuci2QRMCkbTEA8Nij",
   },
   {
