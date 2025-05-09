@@ -12,7 +12,7 @@ export const MgmtProjects = [
     subtitle: "MS Project",
     description:
       "Projects where I used MS Project to create both an outline of work and Gantt Charts that focused on the critical path.",
-    image: "./Gantt_Chart.gif",
+    image: "./Gantt_Chart_2.gif",
     link: "https://drive.google.com/drive/u/0/folders/1d8qNrf9PTM3-r-Uu5cW3YRsIEqJD9H0r",
   },
   {
@@ -20,7 +20,7 @@ export const MgmtProjects = [
     subtitle: "Error Handling and Tracing",
     description:
       "Projects where I used Visio to create a Ishikawa diagram based on an issue that popped up during the project timeline.",
-    image: "./Fishbone_Diagram.gif",
+    image: "./Fishbone_Diagram_2.gif",
     link: "https://drive.google.com/drive/u/0/folders/1znWXppIaqKhCDc0Ev2an505qNqMabiKQ",
   },
   {
@@ -38,7 +38,7 @@ export const SftwProjects = [
     subtitle: "React and Tailwind css",
     description:
       "This portfolio page was a project I  elected to work on using strictly React and Tailwind css. Showcases completed projects and projects in progress as well.",
-    image: "./project-1.gif",
+    image: "./Portfolio.gif",
     link: "https://github.com/ARivers223/Portfolio/tree/master/src",
   },
   {
